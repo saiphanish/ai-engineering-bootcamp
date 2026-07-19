@@ -15,12 +15,16 @@ print(f"My target salary is {salary}")
 print(f"This is a lead position: {is_lead}")
 
 currentsalary = 27
-expectedsalary = 40
+expectedsalary = 40cd
 difference = expectedsalary - currentsalary
 print(f"My current salary is {currentsalary}")
 print(f"My expected salary is {expectedsalary}")
 print(f"The difference between my expected and current salary is {difference}")  """
-
+""" 
 name = input("Enter your name: ")
 print(f"Hello, {name}")
 print(type(name))
+print(f"{name} is name") """
+
+age = input("age:")
+print(age+5)

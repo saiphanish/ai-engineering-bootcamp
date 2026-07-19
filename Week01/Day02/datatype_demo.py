@@ -1,0 +1,5 @@
+age = (f"Age is: {input('Enter your age: ')}")
+print(age)
+age1 = input("age1:")
+age2 = 5 + int(age1)
+print(age2)

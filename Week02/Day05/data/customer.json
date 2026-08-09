@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sai",
+        "city": "Hyderabad",
+        "phone": "1234567890"
+    },
+    {
+        "name": "Sai",
+        "city": "Hyd",
+        "phone": "1234567890"
+    },
+    {
+        "name": "C:\\Users\\saiph\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/saiph/CODE/ai-engineering-bootcamp/Week02/Day06/main.py",
+        "city": "C:\\Users\\saiph\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/saiph/CODE/ai-engineering-bootcamp/Week02/Day06/main.py",
+        "phone": "C:\\Users\\saiph\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/saiph/CODE/ai-engineering-bootcamp/Week02/Day06/main.py"
+    }
+]

@@ -1,9 +1,10 @@
-class Technician:
+from models.employee import Employee
+
+class Technician(Employee):
 
     def __init__(self, name, experience, skills):
 
-        self.name = name
-        self.experience = experience
+        super().__init__(name, experience)
         self.skills = skills
 
     def display(self):

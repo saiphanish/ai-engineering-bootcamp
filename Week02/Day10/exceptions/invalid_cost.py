@@ -1,0 +1,2 @@
+class InvalidServiceCost(Exception):
+    pass
